@@ -1,2 +1,53 @@
 360 vr/Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib
 360 vr/Library/ArtifactDB
+
+# ===== Unity generated files =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ===== OS generated files =====
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# ===== Visual Studio / Rider / VSCode =====
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ===== Unity specific =====
+*.unitypackage
+*.apk
+*.aab
+*.obb
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+
+# ===== Crash / Auto generated =====
+sysinfo.txt
+*.stacktrace
+
+# ===== VR / 360 Assets / Packages =====
+/Assets/StreamingAssets/*   # Only if you plan to generate these at runtime
+/Assets/Plugins/*           # Keep plugins if you want to track them
+/Assets/VRSDKs/*            # Optional: ignore if downloaded or regenerated
+
+# ===== Misc =====
+*.log
+
